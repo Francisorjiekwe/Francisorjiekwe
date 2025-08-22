@@ -41,6 +41,6 @@ This project provides key insights into **total revenue, product sales, regional
 ---
 
 ## 📷 Dashboard Preview  
-(sales_report_resized_v2_1024Corr.png)
+(sales_report_resized_v2_1024x576.png)
 ```markdown
 ![Sales Report Correlation 2025 Dashboard](sales_report_resized_v2_1024x576.png)
