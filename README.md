@@ -1,46 +1,54 @@
-# 📊 Sales Report Correlation 2025 Dashboard  
+<h1>Hi, I'm Francis! <br/><a href="https://github.com/Francisorjiekwe">Data_Analytics Consultant</a>, <a href="https://www.linkedin.com/in/francis-orjiekwe/">Data_Analytics Consultant</a>, <a href="https://www.youtube.com/c/Softvision_Communication">YouTuber</a></h1>
 
-A **comprehensive and interactive data visualization dashboard** for analyzing sales performance in **2025**.  
-This project provides key insights into **total revenue, product sales, regional performance, and daily sales trends**, enabling **data-driven decision-making**.  
+<h2>👨‍💻 Microsoft Excel Projects:</h2>
 
----
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-## ✨ Features  
+<h2>📺 Popular YouTube Videos</h2>
 
-- **Total Sales & Revenue Metrics**  
-  Quick-view KPI cards displaying:  
-  - Total Revenue: **₦1,053,692,115.20**  
-  - Total Sales: **255,161**  
-  - Maximum / Minimum Revenue  
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-- **Regional Analysis**  
-  Visual representation of sales performance across regions, with focus on **South West** and **North Central**.  
+<h2> 🤳 Connect with me:</h2>
 
-- **Store-Level Breakdown**  
-  Detailed bar charts showing sales distribution across stores like **Nasarawe, Lagos, FCT, and Ogun**.  
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- **Product Performance**  
-  Breakdown of sales by product category:  
-  - Headphones  
-  - Blenders  
-  - Iron  
-  - Power Banks  
-  Includes **monthly sales trend charts**.  
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
-- **Day Category Insights**  
-  Analysis of sales performance on **Public Holidays, Workdays, and Weekends** to identify behavioral patterns.  
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- **Interactive & Responsive**  
-  Designed for easy navigation and accessibility on different screen sizes.  
+Here are some ideas to get you started:
 
----
-
-## 🛠️ Tools Used  
-- **Microsoft Excel** (Data Cleaning, Analysis & Dashboard Design)  
-
----
-
-## 📷 Dashboard Preview  
-(sales_report_resized_v2_1024x576.png)
-```markdown
-![Sales Report Correlation 2025 Dashboard](sales_report_resized_v2_1024x576.png)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
