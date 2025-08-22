@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Francisorjiekwe
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on team programming 
-- 📫 How to reach me ...
-
-<!---
-Francisorjiekwe/Francisorjiekwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+git clone https://github.com/Francisorjiekwe/Sales-Dashboard-using-Excel.git
+cd Sales-Dashboard-using-Excel
