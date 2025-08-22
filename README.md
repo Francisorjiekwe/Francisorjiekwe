@@ -1,54 +1,44 @@
-<h1>Hi, I'm Francis! <br/><a href="https://github.com/Francisorjiekwe">Data_Analytics Consultant</a>, <a href="https://www.linkedin.com/in/francis-orjiekwe/">Data_Analytics Consultant</a>, <a href="https://www.youtube.com/c/Softvision_Communication">YouTuber</a></h1>
+<h1>Hi, I'm Francis Orjiekwe! <br/><a href="https://github.com/Francisorjiekwe">Data Analyst</a>, <a href="https://www.youtube.com/@Softvision_Communication">YouTuber</a>, <a href="https://www.linkedin.com/in/francisorjiekwe/">Digital Marketer</a></h1>
 
-<h2>👨‍💻 Microsoft Excel Projects:</h2>
+<h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Sales Report Correlation 2025 Dashboard</b>  
+  - [Interactive Excel Dashboard with Power Query & PivotTables](https://github.com/Francisorjiekwe/Sales-Report-Correlation-2025)  
+- <b>Inventory Management System</b>  
+  - [Automated Excel Tool for Stock Tracking](https://github.com/Francisorjiekwe/Excel-Inventory-Manager)  
+- <b>SQL Practice Portfolio</b>  
+  - [Database Queries and Business Insights](https://github.com/Francisorjiekwe/SQL-Projects)  
+- <b>Power BI Dashboard</b>  
+  - [Visualizing Business KPIs & Regional Performance](https://github.com/Francisorjiekwe/PowerBI-Dashboards)  
+- <b>School Management System (Excel-based)</b>  
+  - [Custom Interactive Tool for Record Keeping](https://github.com/Francisorjiekwe/School-Management-Excel)  
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Excel Power Query for Beginners – Full Tutorial](https://www.youtube.com/@Softvision_Communication)  
+- [How to Build a Dynamic Dashboard in Excel](https://www.youtube.com/@Softvision_Communication)  
+- [Data Cleaning Techniques Every Analyst Must Know](https://www.youtube.com/@Softvision_Communication)  
+- [Getting Started with SQL for Data Analysis](https://www.youtube.com/@Softvision_Communication)  
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="FrancisOrjiekwe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
+[<img align="left" alt="FrancisOrjiekwe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="FrancisOrjiekwe | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[youtube]: https://www.youtube.com/@Softvision_Communication  
+[linkedin]: https://www.linkedin.com/in/francisorjiekwe/  
+[github]: https://github.com/Francisorjiekwe  
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Francisorjiekwe/Francisorjiekwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on data-driven business solutions  
+- 🌱 I’m currently learning advanced SQL and Power BI  
+- 👯 I’m looking to collaborate on Excel/BI dashboards and analytics projects  
+- 💬 Ask me about Excel automation, Power Query, and dashboards  
+- 📫 How to reach me: GitHub or LinkedIn  
+- ⚡ Fun fact: I enjoy combining business with analytics to simplify decision-making  
 -->
